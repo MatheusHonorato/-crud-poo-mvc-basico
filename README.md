@@ -16,8 +16,7 @@ Para contextualizar criaremos uma versão reduzida de um blog. A relação de us
 
 # Modelagem
 
-## 
-Entidades
+## Entidades
 
 ### User
 
@@ -32,8 +31,6 @@ Entidades
 - Title: Obrigatório;
 - Body: Obrigatório;
 - UserId: Obrigatório.
-
-### Endpoints
 
 # Tecnologias utilizadas
 
